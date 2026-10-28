@@ -1,0 +1,6 @@
+{
+  "name": "Gestura - Universal Sign Language Interpreter & Accessibility Suite",
+  "description": "Real-time sign language interpreter featuring 3D avatar translation, computer vision sign-to-speech, multi-video audio translator, offline processing, haptics, and cloud sync.",
+  "requestFramePermissions": ["camera", "microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
